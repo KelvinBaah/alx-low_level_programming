@@ -2,7 +2,7 @@
 
 /**
  * main - print - _putchar
- * is written by kelvin
+ * written by kelvin
  * Return : 0
  */
 
