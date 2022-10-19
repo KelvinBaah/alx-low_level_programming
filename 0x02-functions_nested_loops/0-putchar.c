@@ -1,10 +1,12 @@
-#include "main.h"
+#imclude "main.h"
 
 /**
- * main - prints putchar
- * Return : Always 0 success
+ * main - print - _putchar
+ * is written by kelvin
+ * Return : 0
  */
-int main(void)
+
+int void main(void)
 {
 	_putchar('_');
 	_putchar('p');
