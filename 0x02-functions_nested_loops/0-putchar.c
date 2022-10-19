@@ -2,9 +2,9 @@
 
 /**
  * main - prints putchar
- * Return : 0 when successful
+ * Return : Always 0 success
  */
-int main(void) /*no arguements at the moment*/
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
