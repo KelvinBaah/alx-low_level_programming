@@ -1,12 +1,14 @@
 #include "main.h"
 
 /**
- * main - print - _putchar
+ * main- print _putchar
+ *
  * written by kelvin
- * Return : 0
+ *
+ * Return : Return 0 (success)
  */
 
-int main(void)
+void main(void)
 {
 	_putchar('_');
 	_putchar('p');
